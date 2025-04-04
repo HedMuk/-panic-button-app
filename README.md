@@ -1,4 +1,3 @@
-# -panic-button-app
 # Node modules
 node_modules/
 
@@ -47,5 +46,4 @@ webpack/
 .vscode/
 
 # Debugging folder and other temp files
-*.iml
-A mobile app designed to help users during panic attacks by enabling emergency calls, sending location-based messages, and connecting with support contacts via video calls
+*.iml****
